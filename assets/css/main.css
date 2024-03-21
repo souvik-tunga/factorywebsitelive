@@ -1,0 +1,151 @@
+*{margin:0;padding: 0;}
+body{
+    overflow-x: hidden;
+    
+  
+}
+/*            <Header>*/
+.headerrr{
+    background-color: #130533;
+    height: 40px;
+}
+.h-text a{
+    color: white;
+    font-family: inherit;
+    font-style: normal;
+    text-decoration:none;
+}
+.h-text a:hover{
+    color:red; 
+}
+.header-text{
+    margin-left: 8%;
+    margin-top: ;
+}
+.okk a{
+    font-size: 13px;
+}
+
+            /*<Navbar>*/
+
+.nav-text{
+    font-size: 62%;
+}
+.navbar{
+     box-shadow: -8px 7px 6px #565a5c;
+     }
+
+            /*    <--<slider-section>-->    */
+
+.slider-section{
+     box-shadow: -8px 7px 6px #565a5c;
+}
+    .carousel-item{
+/*        height: 00px;*/
+
+}
+
+.pic-about{
+    width: 50px;
+}
+
+.back-m{
+    background-color: #130533;
+}
+/*.size_l{
+    font-size: 90px;
+}
+*/
+        /*<Footer>*/
+
+.footer-colour{
+    background-color: #130533;
+}
+.pic-logo{
+    height: 60px;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+.img-fluid{
+    height: 250px;
+}
+
+
+
+        /*<home css>*/
+.text-p{
+    position: absolute;
+    top: 15%;
+    left: 5%;
+
+}
+/*.text-p h1{
+    font-size: 4rem;
+}*/
+
+
+
+
+.container-courses{
+    background-color:#130533;
+    position: relative;
+}
+.course-title .fa-solid{
+    color: white;
+    
+}
+.course-title h2{ 
+    color: #fff;
+}
+.card-section h5 .fa-graduation-cap{
+    color: #abab29;
+    margin-top: 1px;
+}
+
+.card-group{
+    display: flex;
+}
+.card-section{
+    border:0px solid rgb(182, 182, 184);
+    margin: auto 5px;
+    box-shadow: -5px 2px 8px #f7c98f;
+    position: relative;
+}
+.card-group>.card-section{
+    flex: 1 0 0%;
+}
+.card-section h5{
+    color: #fff;
+    text-align: center;
+    border-bottom: 2px solid #fff;
+    padding: 10px;
+    position: relative;
+}
+.card-text{
+    color: #fff;
+    text-align: justify;    
+}
+
+.course-icon{
+    position: absolute;
+    text-align: center; 
+    background-color: #fff;
+    color: black;
+    margin-left: 25%;
+    border-radius: 50%;
+    font-size: 20px;
+    height: 30px;
+    width: 30px;
+}
+.btn{
+    box-shadow: -4px 9px 12px #3e403e;
+
+}
+
+
+.card-section:last-child{
+    margin-top: 15px;
+}
+.card-section:first-child{
+    margin-top: 4.5%;
+}
