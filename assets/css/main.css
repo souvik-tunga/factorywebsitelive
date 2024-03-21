@@ -1,6 +1,7 @@
 *{margin:0;padding: 0;}
 body{
     overflow-x: hidden;
+    padding: 0px;
     
   
 }
@@ -44,7 +45,7 @@ body{
 /*        height: 00px;*/
 
 }
-
+#navbar_top{background-color: black;}
 .pic-about{
     width: 50px;
 }
@@ -131,7 +132,9 @@ body{
     text-align: center; 
     background-color: #fff;
     color: black;
-    margin-left: 25%;
+    position: relative;
+    left:5px;
+    top:25px;
     border-radius: 50%;
     font-size: 20px;
     height: 30px;
